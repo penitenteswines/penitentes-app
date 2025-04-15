@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/penitentes-app/static/css/main.d221dc40.css",
-    "main.js": "/penitentes-app/static/js/main.bef530f8.js",
+    "main.js": "/penitentes-app/static/js/main.bc324da6.js",
     "static/css/528.62827153.chunk.css": "/penitentes-app/static/css/528.62827153.chunk.css",
-    "static/js/528.b897bbcd.chunk.js": "/penitentes-app/static/js/528.b897bbcd.chunk.js",
-    "static/js/76.544c215b.chunk.js": "/penitentes-app/static/js/76.544c215b.chunk.js",
+    "static/js/528.83fb5871.chunk.js": "/penitentes-app/static/js/528.83fb5871.chunk.js",
+    "static/js/76.68d62c7e.chunk.js": "/penitentes-app/static/js/76.68d62c7e.chunk.js",
     "static/media/grapeIcon.webp": "/penitentes-app/static/media/grapeIcon.bc1d3dca04a97945d665.webp",
     "static/media/varietalIcon.webp": "/penitentes-app/static/media/varietalIcon.2130c5c59604316dfb2a.webp",
     "static/media/wineryIcon.webp": "/penitentes-app/static/media/wineryIcon.d3f3ef04fd41da461532.webp",
@@ -57,13 +57,13 @@
     "static/media/altalandLogo.webp": "/penitentes-app/static/media/altalandLogo.0facfb094479bd34d302.webp",
     "index.html": "/penitentes-app/index.html",
     "main.d221dc40.css.map": "/penitentes-app/static/css/main.d221dc40.css.map",
-    "main.bef530f8.js.map": "/penitentes-app/static/js/main.bef530f8.js.map",
+    "main.bc324da6.js.map": "/penitentes-app/static/js/main.bc324da6.js.map",
     "528.62827153.chunk.css.map": "/penitentes-app/static/css/528.62827153.chunk.css.map",
-    "528.b897bbcd.chunk.js.map": "/penitentes-app/static/js/528.b897bbcd.chunk.js.map",
-    "76.544c215b.chunk.js.map": "/penitentes-app/static/js/76.544c215b.chunk.js.map"
+    "528.83fb5871.chunk.js.map": "/penitentes-app/static/js/528.83fb5871.chunk.js.map",
+    "76.68d62c7e.chunk.js.map": "/penitentes-app/static/js/76.68d62c7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d221dc40.css",
-    "static/js/main.bef530f8.js"
+    "static/js/main.bc324da6.js"
   ]
 }
