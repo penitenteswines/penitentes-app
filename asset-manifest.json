@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/penitentes-app/static/css/main.d221dc40.css",
-    "main.js": "/penitentes-app/static/js/main.fc70ada5.js",
-    "static/css/359.0740d1ef.chunk.css": "/penitentes-app/static/css/359.0740d1ef.chunk.css",
-    "static/js/359.131801c5.chunk.js": "/penitentes-app/static/js/359.131801c5.chunk.js",
+    "main.js": "/penitentes-app/static/js/main.79be2991.js",
+    "static/css/528.62827153.chunk.css": "/penitentes-app/static/css/528.62827153.chunk.css",
+    "static/js/528.4cf64325.chunk.js": "/penitentes-app/static/js/528.4cf64325.chunk.js",
     "static/js/76.68d62c7e.chunk.js": "/penitentes-app/static/js/76.68d62c7e.chunk.js",
     "static/media/grapeIcon.webp": "/penitentes-app/static/media/grapeIcon.bc1d3dca04a97945d665.webp",
     "static/media/varietalIcon.webp": "/penitentes-app/static/media/varietalIcon.2130c5c59604316dfb2a.webp",
     "static/media/wineryIcon.webp": "/penitentes-app/static/media/wineryIcon.d3f3ef04fd41da461532.webp",
-    "static/media/homeLogo.webp": "/penitentes-app/static/media/homeLogo.77aa8e686bd0c4450d8f.webp",
     "static/media/elefanteLogo.webp": "/penitentes-app/static/media/elefanteLogo.8b79ef87efb68a1f6540.webp",
     "static/media/miVictoriaLogo.webp": "/penitentes-app/static/media/miVictoriaLogo.d6b4e0c6c6480926e27c.webp",
     "static/media/seladaLogo.webp": "/penitentes-app/static/media/seladaLogo.c7e833fe7e594b1d17b6.webp",
@@ -58,13 +57,13 @@
     "static/media/altalandLogo.webp": "/penitentes-app/static/media/altalandLogo.0facfb094479bd34d302.webp",
     "index.html": "/penitentes-app/index.html",
     "main.d221dc40.css.map": "/penitentes-app/static/css/main.d221dc40.css.map",
-    "main.fc70ada5.js.map": "/penitentes-app/static/js/main.fc70ada5.js.map",
-    "359.0740d1ef.chunk.css.map": "/penitentes-app/static/css/359.0740d1ef.chunk.css.map",
-    "359.131801c5.chunk.js.map": "/penitentes-app/static/js/359.131801c5.chunk.js.map",
+    "main.79be2991.js.map": "/penitentes-app/static/js/main.79be2991.js.map",
+    "528.62827153.chunk.css.map": "/penitentes-app/static/css/528.62827153.chunk.css.map",
+    "528.4cf64325.chunk.js.map": "/penitentes-app/static/js/528.4cf64325.chunk.js.map",
     "76.68d62c7e.chunk.js.map": "/penitentes-app/static/js/76.68d62c7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d221dc40.css",
-    "static/js/main.fc70ada5.js"
+    "static/js/main.79be2991.js"
   ]
 }
